@@ -15,4 +15,6 @@
 
 
 cd ./etc/skel/.config/arco-slstatus/
+make clean
 make
+make clean
