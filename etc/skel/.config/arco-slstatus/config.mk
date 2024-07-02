@@ -1,4 +1,4 @@
-# slstatus version
+# slstatus version slstatus 1.0 (2023-07-04)
 VERSION = 1.0
 
 # customize below to fit your system
